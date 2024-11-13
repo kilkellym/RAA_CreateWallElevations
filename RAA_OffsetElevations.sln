@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAA_OffsetElevations", "RAA_OffsetElevations\RAA_OffsetElevations.csproj", "{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug R20|Any CPU = Debug R20|Any CPU
+		Debug R21|Any CPU = Debug R21|Any CPU
+		Debug R22|Any CPU = Debug R22|Any CPU
+		Debug R23|Any CPU = Debug R23|Any CPU
+		Debug R24|Any CPU = Debug R24|Any CPU
+		Debug R25|Any CPU = Debug R25|Any CPU
+		Release R20|Any CPU = Release R20|Any CPU
+		Release R21|Any CPU = Release R21|Any CPU
+		Release R22|Any CPU = Release R22|Any CPU
+		Release R23|Any CPU = Release R23|Any CPU
+		Release R24|Any CPU = Release R24|Any CPU
+		Release R25|Any CPU = Release R25|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R20|Any CPU.ActiveCfg = Debug R20|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R20|Any CPU.Build.0 = Debug R20|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R21|Any CPU.ActiveCfg = Debug R21|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R21|Any CPU.Build.0 = Debug R21|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R22|Any CPU.ActiveCfg = Debug R22|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R22|Any CPU.Build.0 = Debug R22|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R23|Any CPU.ActiveCfg = Debug R23|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R23|Any CPU.Build.0 = Debug R23|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R24|Any CPU.ActiveCfg = Debug R24|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R24|Any CPU.Build.0 = Debug R24|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R25|Any CPU.ActiveCfg = Debug R25|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Debug R25|Any CPU.Build.0 = Debug R25|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R20|Any CPU.ActiveCfg = Release R20|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R20|Any CPU.Build.0 = Release R20|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R21|Any CPU.ActiveCfg = Release R21|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R21|Any CPU.Build.0 = Release R21|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R22|Any CPU.ActiveCfg = Release R22|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R22|Any CPU.Build.0 = Release R22|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R23|Any CPU.ActiveCfg = Release R23|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R23|Any CPU.Build.0 = Release R23|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R24|Any CPU.ActiveCfg = Release R24|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R24|Any CPU.Build.0 = Release R24|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R25|Any CPU.ActiveCfg = Release R25|Any CPU
+		{7AC2BE17-43F7-4AD1-8EE2-0CBD1C83E961}.Release R25|Any CPU.Build.0 = Release R25|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5499BA-5B72-4692-A1C8-E93A503BA319}
+	EndGlobalSection
+EndGlobal

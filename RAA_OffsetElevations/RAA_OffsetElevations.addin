@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_OffsetElevations - Command 1</Text>
+    <Description>Some description</Description>
+    <Assembly>RAA_OffsetElevations\RAA_OffsetElevations.dll</Assembly>
+    <FullClassName>RAA_OffsetElevations.Command1</FullClassName>
+    <ClientId>eec099d1-bcd5-43f0-92c4-f710a648da61</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_OffsetElevations - Command 2</Text>
+    <Description>Some description</Description>
+    <Assembly>RAA_OffsetElevations\RAA_OffsetElevations.dll</Assembly>
+    <FullClassName>RAA_OffsetElevations.Command2</FullClassName>
+    <ClientId>dad9b512-efc9-4a26-a65c-5d0c07cb93ed</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
